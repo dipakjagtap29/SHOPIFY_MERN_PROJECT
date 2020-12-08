@@ -3,6 +3,10 @@ Shopify eCommerce Platform
 eCommerce platform built with the MERN stack & Redux.
 
 
+
+
+
+
 Features
 Full featured shopping cart
 Product reviews and ratings
